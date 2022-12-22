@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    font-family: sans-serif;
+}
+
+.desktop-img {
+    width: 676px;
+}
+
+.line {
+    height: 1px;
+    opacity: 0.5;
+}
+
+.side-bar {
+    max-width: 269px;
+    height: 450px;
+}
+
+.button {
+    font-size: 8px;
+    position: relative;
+    margin-right: 213px;
+    bottom: 30px;
+}
+
+.end-img {
+    height: 100px;
+    width: 150px;
+}
+
+.bottom-container {
+    width: 280px;
+}
+
+.bottom-mid-container {
+    width: 300px;
+}
